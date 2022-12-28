@@ -1,0 +1,35 @@
+{
+    "name": "nearata/flarum-ext-discord-widget",
+    "description": "Add Discord widget to your website.",
+    "keywords": [
+        "flarum"
+    ],
+    "type": "flarum-extension",
+    "license": "Unlicense",
+    "require": {
+        "flarum/core": "^1.6.0"
+    },
+    "authors": [
+        {
+            "name": "Nearata",
+            "email": "nearata@protonmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nearata\\DiscordWidget\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Discord Widget",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-discord",
+                "color": "#fff",
+                "backgroundColor": "#7289da"
+            }
+        }
+    }
+}
