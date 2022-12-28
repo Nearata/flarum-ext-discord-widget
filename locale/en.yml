@@ -1,7 +1,4 @@
 nearata-discord-widget:
-  # For more details on the format
-  # Checkout https://docs.flarum.org/extend/i18n/#appendix-a-standard-key-format
   admin:
-    my_cool_key: My Cool Key
-
-  forum:
+    server_id: Server ID
+    server_id_help: Your Server -> Server Settings -> Widget -> Server ID
