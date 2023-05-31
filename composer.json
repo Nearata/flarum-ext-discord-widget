@@ -1,13 +1,13 @@
 {
     "name": "nearata/flarum-ext-discord-widget",
-    "description": "Add Discord widget to your website.",
+    "description": "Adds a floating Discord widget.",
     "keywords": [
         "flarum"
     ],
     "type": "flarum-extension",
     "license": "Unlicense",
     "require": {
-        "flarum/core": "^1.6.0"
+        "flarum/core": "^1.7"
     },
     "authors": [
         {
