@@ -6,6 +6,8 @@
 
 > Adds a floating Discord widget.
 
+![preview](screenshot.png)
+
 ## Install
 
 ```sh
